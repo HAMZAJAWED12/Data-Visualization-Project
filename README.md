@@ -114,3 +114,32 @@ data points on the canvas as ellipses with the following properties.
     - size = number of jobs
 
 Hint: You will need to use `map()`.
+
+
+---
+
+## **3️⃣ Data Visualization Project**
+📁 **Repository Name:** `data-visualization-p5js`  
+
+```md
+# 📊 Data Visualization with p5.js
+This project visualizes **real-world data** using JavaScript and the p5.js library.
+
+## 🔹 Features
+- 📈 **Interactive graphs**
+- 🎨 **Smooth animations**
+- 🖱️ **User-controlled visualizations**
+- ⚡ **Optimized for performance**
+
+## 🛠️ Technologies Used
+- JavaScript
+- p5.js
+
+## 📸 Screenshots
+(Add visualization screenshots here)
+
+## 📂 How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/data-visualization-p5js.git
+
